@@ -105,6 +105,12 @@
 
      .mb-3 {
           font-size: 30px;
+          text-align: center;
      }
 
+     .primary-link {
+          display: block;
+          margin: 0 20px;
+          text-align: center;
+     }
    }
